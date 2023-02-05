@@ -1,0 +1,24 @@
+Users:
+	Customer:
+		username: meta_customer
+		password: giga1234
+		token: 7c4e02bca34b2a72d38d829823fb0fbd9a026dce
+		
+		username: another_customer
+		password: giga1234
+		token: d5289ca65bb3b2d307e17f6f2a427bb59205b90f
+		
+	Delivery Crew:
+		username: mr.delivery
+		password: giga1234
+		token: 0aa59a0ffb66d8cafbbbfd2b10e93f37d3eaf849
+		
+	Manager:
+		username: mr.manager
+		password: giga1234
+		token: 2caf3cf3798cd64f02322fb558f0549afc43e8d0
+
+	Admin:
+		username: giga
+		password: giga
+		token: 7935df5d36ee6d052429ec4b53109326fc00c5a6

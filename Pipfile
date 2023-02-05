@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = ">=3.2.4,<3.3"
+djangorestframework = ">=3.12.4,<3.13"
+django-filter = "*"
+
+[dev-packages]
+flake8 = ">=3.9.2,<3.10"
+
+[requires]
+python_version = "3.9"
